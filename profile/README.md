@@ -1,5 +1,5 @@
-### :star: Welcome to the GitHub profile of company UST :star:
+### :sparkles: Welcome to UST - Universal Scientific Technologies :sparkles:
 
-[Universal Scientific Technologies s.r.o. (UST)](http://www.ust.cz) is a Czech company, engaged in the development and production of equipment intended for scientific and other purposes. UST has expertise in the fields of hardware development, embedded devices and user software. 
+At [Universal Scientific Technologies s.r.o. (UST)](http://www.ust.cz), we're pioneering the future of scientific and technological equipment from the heart of the Czech Republic. Our core expertise lies in designing cutting-edge hardware, embedded devices, and intuitive user software tailored to advance scientific research and innovation.
 
-In the repositories we publish here on GitHub, you can find technical documentation and supporting software for some of our products. If you are in need of having a specific equipment developed, contact us at ([sale@ust.cz](mailto:sale@ust.cz)). We can offer a customized solution for you.
+Dive into our GitHub repositories for an inside look at the technical documentation and software that power our products. And if you're seeking bespoke solutions, we're here to transform your ideas into reality. Get in touch at ([sale@ust.cz](mailto:sale@ust.cz)) for tailor-made equipment designed to meet your unique needs.
